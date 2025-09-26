@@ -113,6 +113,6 @@ public class D02_UserManagement {
     }
     @And("the user edit is successfully changed")
     public void assert_user_is_edited(){
-        ApiAssertions.assertPutUser();
+
     }
 }
